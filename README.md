@@ -1,6 +1,7 @@
 # ARC-AGI-hackathon
 "Intelligence is measured by the efficiency of skill-acquisition on unknown tasks. Simply, how quickly can you learn new skills?" - [ARC-AGI](https://arcprize.org/arc-agi)
-Here's me and my teammates! Here's the full [university article](https://engineering.missouri.edu/2025/students-compete-in-2025-artificial-general-intelligence-mizzou-hackathon-and-showcase/)!
+
+Here's me and my teammates presenting our solution! You can read the full [university article](https://engineering.missouri.edu/2025/students-compete-in-2025-artificial-general-intelligence-mizzou-hackathon-and-showcase/)!
 <img width="2220" height="1777" alt="image" src="https://github.com/user-attachments/assets/757b36ed-8fb2-45ac-8ee3-5272462467ef" />
 
 https://engineering.missouri.edu/2025/students-compete-in-2025-artificial-general-intelligence-mizzou-hackathon-and-showcase/
