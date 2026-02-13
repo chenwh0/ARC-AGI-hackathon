@@ -7,7 +7,7 @@ Today, even the state of the art "intelligent" Large Language Models (LLMs) have
 <img width="910" height="476" alt="image" src="https://github.com/user-attachments/assets/caa314ee-e2dc-4645-a7e2-e371714d8db6" />
 
 ... and how about solving another +1000 puzzle sets each applying different types of logic? Near impossible!
-<img width="820" height="500" alt="image" src="https://github.com/user-attachments/assets/a0d27458-57ef-4499-8500-9dadb7230776" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/a0d27458-57ef-4499-8500-9dadb7230776" />
 
 ## SOLUTION
 This is the challenge we aimed to solve when we participated in the ARC-AGI2 competition. Under a 2 day time constraint this is the solution we developed to tackle this problem:
