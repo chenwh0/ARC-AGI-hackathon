@@ -9,7 +9,7 @@ Today, even the state of the art "intelligent" Large Language Models (LLMs) have
 ... and how about solving another +1000 puzzle sets each applying different types of logic? Near impossible!
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/a0d27458-57ef-4499-8500-9dadb7230776" />
 
-## SOLUTION
+## **SOLUTION**
 This is the challenge we aimed to solve when we participated in the ARC-AGI2 competition. Under a 2 day time constraint this is the solution we developed to tackle this problem:
 [<img width="1960" height="1017" alt="image" src="https://github.com/user-attachments/assets/316161ab-a75f-4a42-9dcc-e7914006a972" />](https://github.com/chenwh0/ARC-AGI-hackathon/ARC-AGI_hackathon_final_round_presentation.pdf)
 
